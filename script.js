@@ -82,5 +82,3 @@ fetchBooks.addEventListener('click', async () => {
     </div>
     `;
 });
-
-// nwaObQEiEsipUkDIbF9BA7b6bjxNdUlQ
